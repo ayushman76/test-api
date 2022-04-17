@@ -1,19 +1,7 @@
-
 {
-	"Post": {[
-		 {
-			"image": "http://www.programmingashram.in/images/jquery.jpg",
-			"Title": "jQuery Version 3.6.0 Released!",
-			"Descriptionshort": "JQuery",
-			"Descriptionfull": "jQuery 3.6.0 has been released. jQuery is a lightweight, write less do more,JavaScript library.jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish,and wraps them into methods that you can call with a single line of code.",
-			"blogid": "blog6"
-		},
-		{
-			"image": "https://i.ytimg.com/vi/sfKDOOJgbSI/maxresdefault.jpg",
-			"Title": "What is meant by event bubbling ?",
-			"Descriptionshort": "JavaScript",
-			"Descriptionfull": "Event bubbling is a type of event propagation where the event first triggers on the innermost target element, and then successively triggers on the ancestors (parents) of the target element in the same nesting hierarchy till it reaches the outermost DOM element or document object (Provided the handler is initialized).",
-			"blogid": "blog7"
-		}
-		 ]},
+  "Post": {
+    "cover": {
+      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+    }
+  }
 }
